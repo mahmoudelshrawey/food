@@ -1,0 +1,27 @@
+.ewsxaqw {
+  margin-top: 20px;
+  padding-top: 75px;
+  padding-bottom: 100px;
+  background-image: url(./1.jpg);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+.ewsxaqw h2 {
+  font-size: 38px;
+  color: #AB3550;
+  margin-bottom: 20px;
+}
+.ewsxaqw p {
+  font-size: 17px;
+  margin-bottom: 50px;
+  color: #555;
+}
+.ewsxaqw a {
+  text-decoration: none;
+  font-size: 17px;
+  color: #541726 !important;
+}
+.ewsxaqw a svg {
+  margin-right: 10px;
+}

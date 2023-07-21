@@ -1,0 +1,41 @@
+.q2211{
+    margin-top: 70px;
+    margin-bottom: 120px;
+    text-align: center;
+    padding-top: 20px;
+    h2{
+        color: #541726;
+        font-size: 37px;
+        margin-bottom: 1px;
+    }
+    p{
+        margin: 25px;
+        color: #555;
+        font-size: 18px;
+    }
+    .gchgc{
+        input{
+            padding: 7.7px 20px;
+            width: 30%;
+            margin-right: 30px;
+        }
+        a{
+            margin-right: 20px;
+            padding: 6px 34px;
+            text-decoration: none;
+            padding-bottom:9px ;
+            transition: 0.4s;
+            font-weight: bold;
+            &:hover{
+                border:3px solid #AB3550 ;
+                background-color: #fff;
+                color: #AB3550;
+            }
+        }
+        .y{
+            border:3px solid #AB3550 ;
+            background-color: #AB3550;
+            color: #fff;
+        }
+    }
+}

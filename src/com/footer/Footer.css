@@ -1,0 +1,31 @@
+footer {
+  text-align: center;
+  background-color: #AB3550;
+  color: #fff;
+  padding: 70px;
+}
+footer ul {
+  list-style: none;
+}
+footer ul li {
+  display: inline-block;
+  margin: 5px 7px;
+}
+footer .q1 li {
+  font-size: 25px;
+}
+footer .asas li {
+  font-size: 18px;
+  margin: 5px 20px;
+}
+footer .asas li a {
+  color: #fff;
+  text-decoration: none;
+}
+footer .asas li a:hover {
+  text-decoration: underline;
+}
+footer span {
+  margin-left: 30px;
+  font-size: 13px;
+}
